@@ -1,0 +1,90 @@
+body{background-color:pink;color:#AC3834;}
+
+.em{width:150px;height:150px;}
+.dre{width:100px;height:100px;}
+.riri{width:100px;height:100px;}
+.snoop{width:100px;height:100px;}
+.bunny{width:210px;height:250px;}
+.choke{width:210px;height:250px;}
+.music1{width:100px;height:100px;}
+.sideb{width:100px;height:100px;}
+.kamikaze{width:100px;height:100px;}
+.revival{width:100px;height:100px;}
+.mm2{width:100px;height:100px;}
+.recovery{width:100px;height:100px;}
+.relapse{width:100px;height:100px;}
+.encore{width:100px;height:100px;}
+.show{width:100px;height:100px;}
+.mm{width:100px;height:100px;}
+.slim{width:100px;height:100px;}
+img{border: 2px;border-radius: 111px;}
+
+.Profile{display:flex; 
+    justify-content:space-around;
+    border:double;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-width:10px;}
+
+.Friends{display:flex; 
+    justify-content:space-around;
+    border:double;
+    flex-direction:column;
+    height:600px; width: 200px;
+    text-align:center;
+    display: block;
+    margin-left: 100px;
+    margin-right: 0px;
+    border-width:10px;}
+
+.Songs{display:flex; 
+    justify-content:space-around;
+    border:double;
+    flex-direction:column;
+    height:600px; width: 600px;
+    text-align:center;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-width:10px;}
+
+
+
+.Lyrics{display:flex; 
+    justify-content:space-around;
+    border:double;
+    flex-direction:column;
+    height:500px; width: 600px;
+    text-align:center;
+    margin-left: 40px;
+    margin-right: 100px;
+    border-width:10px;}
+
+.Pictures{display:flex; 
+    justify-content:center;
+    border:double;
+    flex-direction:column;
+    height:600px; width: 550px;
+    text-align:center;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-width:10px;}
+
+.Albums{display:flex; 
+    justify-content:center;
+    flex-wrap:wrap;
+    border:double;
+    text-align:center;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-width:10px;
+    text-align:center;}
+.album{display: flex;
+justify-content: center;}
+
+
+
+.MAINCHICK{display:flex; justify-content:center;}
+
+h1{font-size:50px;text-align:center;}
+h2{font-size:40px;}
+h3{font-size:30px;}
